@@ -22,7 +22,6 @@ pip install googletrans==4.0.0-rc1 -q
 pip install pyngrok -q
 ```
 
-
 ## 💻 Como usar
 
 1. O aplicativo será iniciado em http://localhost:8501
