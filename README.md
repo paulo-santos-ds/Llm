@@ -44,4 +44,3 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir um issue 
 1. Clone este repositório
 2. Instale as dependências listadas acima
 3. Execute o aplicativo:
-
