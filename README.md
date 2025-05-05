@@ -4,6 +4,7 @@ Um aplicativo web simples de tradução que converte texto do português para o 
 
 ## 🚀 Funcionalidades
 
+
 - Interface web intuitiva
 - Tradução de português para inglês
 - Acesso via túnel ngrok para disponibilização online
