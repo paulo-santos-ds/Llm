@@ -32,6 +32,7 @@ pip install pyngrok -q
 
 ## 🔧 Tecnologias utilizadas
 
+
 1. Streamlit
 2. Google Translator
 3. ngrok
